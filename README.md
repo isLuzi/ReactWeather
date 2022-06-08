@@ -1,7 +1,9 @@
-# ReactWeather
+# Weather - React Weather Application
+![REACTWEATHER](https://i.imgur.com/3rP2zDo.png)
 
-#react:................ 18.1.0
-#tailwindcss:.......... 3.0.24
-#react-icons":......... 4.4.0
-#luxon:................ 2.4.0
-#react-toastify:....... 9.0.4
+## Introduction
+This is a code repository for the React Weather App.
+
+Using ReactJS, Tailwindcss, Luxon, Toastify.
+
+Project created by Luzi 
